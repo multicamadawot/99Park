@@ -1,4 +1,4 @@
-package br.edu.ifba.bsi.embarcados.cliente.conector;
+package br.edu.wot.embarcados.cliente.conector;
 
 
 
@@ -14,7 +14,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
 @SuppressWarnings("deprecation")
 public class Conector {
 
-	private static final String ENDERECO_WS = "http://192.168.0.110:8080/smartpark/v1/sw/";
+	private static final String ENDERECO_WS = "http://localhost:8080/smartpark/v1/sw/";
 
 	public String acessar(String urlFuncao) {
 		String resultado = "";
