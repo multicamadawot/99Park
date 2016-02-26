@@ -1,6 +1,6 @@
-package br.edu.ifba.bsi.embarcados.cliente;
+package br.edu.wot.bsi.embarcados.cliente;
 
-import br.edu.ifba.bsi.embarcados.cliente.conector.Conector;
+import br.edu.wot.embarcados.cliente.conector.Conector;
 
 public class Executor {
 
