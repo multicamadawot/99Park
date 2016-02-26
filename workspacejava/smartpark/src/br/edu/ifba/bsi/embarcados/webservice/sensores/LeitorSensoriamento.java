@@ -1,4 +1,4 @@
-package br.edu.ifba.bsi.embarcados.webservice.sensores;
+package br.edu.wot.embarcados.webservice.sensores;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
