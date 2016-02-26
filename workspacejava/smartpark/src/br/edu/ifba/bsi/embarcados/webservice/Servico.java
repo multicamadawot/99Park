@@ -1,11 +1,11 @@
-package br.edu.ifba.bsi.embarcados.webservice;
+package br.edu.wot.embarcados.webservice;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import br.edu.ifba.bsi.embarcados.webservice.sensores.LeitorSensoriamento;
+import br.edu.wot.embarcados.webservice.sensores.LeitorSensoriamento;
 
 @Path("sw")
 public class Servico {
