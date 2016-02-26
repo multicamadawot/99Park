@@ -1,4 +1,4 @@
-package br.edu.ifba.bsi.embarcado.clientesmartpark;
+package br.edu.wot.embarcado.clientesmartpark;
 
 public class Executor {
 
